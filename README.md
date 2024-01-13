@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+18555
+Fork on GitHub
+5526
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate Java backend developer from Uzbekistan</h3>
 
@@ -9,18 +25,14 @@
 
 - 📫 How to reach me **sjahongir221@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1va4l-QwRVr5CmVcbHCmAqNptFr74SiAs/view?usp=drive_link](https://drive.google.com/file/d/1va4l-QwRVr5CmVcbHCmAqNptFr74SiAs/view?usp=drive_link)
-- Connect with me:  +998 97 571 05 30
-                    +998 99 220 62 21 
+- 📄 Know about my experiences [resume](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jahongir-sobirjonov-bb36892a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahongir-sobirjonov-bb36892a4" height="30" width="40" /></a>
 <a href="https://instagram.com/jahongir__sobirjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahongir__sobirjonov" height="30" width="40" /></a>
-<a href="https://t.me/jahongir_sobirjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="jahongir_sobirjonov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sjahongir221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sjahongir221" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sjahongir221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sjahongir221" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +43,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahongirdevelop&show_icons=true&locale=en" alt="jahongirdevelop" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahongirdevelop&" alt="jahongirdevelop" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
