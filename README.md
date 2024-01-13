@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jahongir-sobirjonov-bb36892a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahongir-sobirjonov-bb36892a4" height="30" width="40" /></a>
 <a href="https://instagram.com/jahongir__sobirjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahongir__sobirjonov" height="30" width="40" /></a>
-<a href="https://www.telegram.com/jahongir_sobirjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahongir_sobirjonov" height="30" width="40" /></a>
+<a href="https://www.telegram.com/jahongir_sobirjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="jahongir_sobirjonov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sjahongir221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sjahongir221" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sjahongir221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sjahongir221" height="30" width="40" /></a>
 
