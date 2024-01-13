@@ -1,24 +1,26 @@
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate Java backend developer from Uzbekistan</h3>
 
-[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
-](https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahongirdevelop&label=Profile%20views&color=0e75b6&style=flat" alt="jahongirdevelop" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **Java, Spring, PostgreSQL**
 
-- 📫 How to reach me **+998975170530, sjahongir221@gmail.com, @jahongir_sobirjonov**
+- 📫 How to reach me **sjahongir221@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1va4l-QwRVr5CmVcbHCmAqNptFr74SiAs/view?usp=drive_link](https://drive.google.com/file/d/1va4l-QwRVr5CmVcbHCmAqNptFr74SiAs/view?usp=drive_link)
+- Connect with me:  +998 97 571 05 30
+                    +998 99 220 62 21 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jahongir-sobirjonov-bb36892a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahongir-sobirjonov-bb36892a4" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jahongir__sobirjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jahongir__sobirjonov" height="30" width="40" /></a>
+<a href="https://instagram.com/jahongir__sobirjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahongir__sobirjonov" height="30" width="40" /></a>
+<a href="https://www.telegram.com/jahongir_sobirjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahongir_sobirjonov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sjahongir221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sjahongir221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sjahongir221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sjahongir221/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sjahongir221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sjahongir221" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
