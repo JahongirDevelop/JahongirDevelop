@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate Java backend developer from Uzbekistan</h3>
-<img align="right" alt"Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt"Coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahongirdevelop&label=Profile%20views&color=0e75b6&style=flat" alt="jahongirdevelop" /> </p>
