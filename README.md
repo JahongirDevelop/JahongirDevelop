@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate Java backend developer from Uzbekistan</h3>
+<img align="right" alt"Coding" width="400" src="https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966>"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahongirdevelop&label=Profile%20views&color=0e75b6&style=flat" alt="jahongirdevelop" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>(https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **Java, Spring, PostgreSQL**
 
