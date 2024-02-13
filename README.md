@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **sjahongir221@gmail.com**
 
-- 📄 Know about my experiences resume[] ([https://drive.google.com/file/d/1va4l-QwRVr5CmVcbHCmAqNptFr74SiAs/view?usp=drive_link] (https://drive.google.com/file/d/1va4l-QwRVr5CmVcbHCmAqNptFr74SiAs/view?usp=drive_link))
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1va4l-QwRVr5CmVcbHCmAqNptFr74SiAs/view?usp=drive_link)
+
 - Connect with me:  +998 97 571 05 30
                     +998 99 220 62 21 
 
